@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyAppV2</string>
+    <string name="dummy_value">My App V2</string>
+    <string name="move_activity">Konversi Rupiah</string>
+    <string name="move_activity1">Cek Dolar</string>
+    <string name="move_activity2">Cek Suhu</string>
+    <string name="move_with_data">Konversi Suhu</string>
+    <string name="dummy_value2">Konversi Dolar to Rupiah</string>
+    <string name="dummy_value3">Konversi Celcius</string>
+    <string name="input_nilai_rupiah">Input nilai Rupiah</string>
+    <string name="hasil_konversi">hasil konversi $</string>
+    <string name="input_nilai_celcius">Input Nilai Celcius</string>
+    <string name="hasil_konversi1">hasil konversi fahrenheit</string>
+    <string name="hasil_konversi2">hasil konversi reamur</string>
+    <string name="hasil_konversi3">hasil konversi kelvin</string>
+
+
+</resources>
